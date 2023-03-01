@@ -2,10 +2,6 @@
 Facebook Data Regression
 
 Facebook Interaction Dataset Analysis
-by Data Crew
- 
-Team Member:
-Jiten Mishra, Erik Pak, Denvir Gama, Liang Tse Hsu, Martello Pollock
  
 Datasets:
 Facebook metrics Data Set
