@@ -1,7 +1,6 @@
 ---
 title: "DATA CREW :: Project Facebook Data set Analysis"
 team: "DATA CREW"
-author: "JITEN / ERIK"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: html_document
 ---
